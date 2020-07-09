@@ -2,8 +2,8 @@ const { Octokit } = require("@octokit/rest");
 
 // from https://github.com/JasonEtco/readme-guestbook/blob/master/api/submit-form.ts
 const REPO_DETAILS = {
-  owner: process.env.REPO_OWNER,
-  repo: process.env.REPO_OWNER,
+  owner: process.env.GITHUB_REPOSITORY_OWNER,
+  repo: process.env.GITHUB_REPOSITORY_OWNER,
 };
 
 const START_COMMENT = "<!--START_SECTION:endorsements-->";
