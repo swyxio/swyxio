@@ -18,3 +18,5 @@ jobs:
       uses: actions/setup-node@v1
     - run: npm ci
     - run: npm run scrape --if-present
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

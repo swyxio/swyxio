@@ -23,3 +23,8 @@ I'm a [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hel
 - 📫 How to reach me: <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once detained in Cuba on suspicion of being a spy
+
+<!--START_SECTION:endorsements-->
+    
+endorse here
+<!--END_SECTION:endorsements-->
