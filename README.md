@@ -25,10 +25,10 @@ I'm a [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hel
 - ⚡ Fun fact: I was once detained in Cuba on suspicion of being a spy
 
 <!--START_SECTION:endorsements-->
-  ### Endorsements for
+  ### Endorse me for:
   
   <ul>
-  <li><a href="https://api.github.com/repos/sw-yx/sw-yx/issues/3">Self-Starter</a>: <img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4 width=100 /></li>
-<li><a href="https://api.github.com/repos/sw-yx/sw-yx/issues/2">JavaScript</a>: <img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4 width=100 /></li>
+  <li><a href="https://github.com/sw-yx/sw-yx/issues/3">Self-Starter</a>: <img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4 width=20 /></li>
+<li><a href="https://github.com/sw-yx/sw-yx/issues/2">JavaScript</a>: <img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4 width=20 /></li>
   </ul>
   <!--END_SECTION:endorsements-->
