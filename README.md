@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://swyx.io">Blog</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a> •
+  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton">Twitter</a> •
   <a href="https://github.com/sw-yx/README">Work README</a> •
   <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a>
 </p>
@@ -20,6 +20,6 @@ I'm a [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hel
 - 👯 I’m looking to collaborate on a potential podcast
 - 🤔 I’m looking for help with video editing/site redesign
 - 💬 Ask me about Svelte and React and AWS Amplify!
-- 📫 How to reach me: <a href="https://twitter.com/swyx">@swyx</a> 
+- 📫 How to reach me: <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once detained in Cuba on suspicion of being a spy
