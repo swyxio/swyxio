@@ -1,0 +1,27 @@
+{
+  "name": "sw-yx",
+  "version": "1.0.0",
+  "description": "<!--<h3 align=\"center\"> ![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png) </h3> -->",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "ts-node scrape.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sw-yx/sw-yx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sw-yx/sw-yx/issues"
+  },
+  "homepage": "https://github.com/sw-yx/sw-yx#readme",
+  "dependencies": {
+    "@octokit/rest": "^18.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.6"
+  }
+}
