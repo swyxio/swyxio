@@ -1,4 +1,4 @@
-import { Octokit } from '@octokit/rest'
+const { Octokit } =  require('@octokit/rest')
 
 // from https://github.com/JasonEtco/readme-guestbook/blob/master/api/submit-form.ts
 const REPO_DETAILS = {
@@ -34,7 +34,10 @@ async function getReadme (octokit) {
 console.log('ttt', process.env.GITHUB_TOKEN)
 
 const octokit = new Octokit({ auth: `token ${process.env.GITHUB_TOKEN}` })
-const readme = await getReadme(octokit)
+(async function() {
+
+  const readme = await getReadme(octokit)
+})()
 
 
 // try {
