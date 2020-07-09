@@ -10,7 +10,8 @@ const START_COMMENT = '<!--START_SECTION:endorsements-->'
 const END_COMMENT = '<!--END_SECTION:endorsements-->'
 const listReg = new RegExp(`${START_COMMENT}[\\s\\S]+${END_COMMENT}`)
 
-async function getReadme (octokit: Octokit) {
+// async function getReadme (octokit: Octokit) {
+async function getReadme (octokit) {
   const res = await octokit.repos.getReadme(REPO_DETAILS)
   const encoded = res.data.content
   const decoded = Buffer.from(encoded, 'base64').toString('utf8')
