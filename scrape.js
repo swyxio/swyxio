@@ -29,7 +29,7 @@ const octokit = new Octokit({ auth: `token ${process.env.ENV_GITHUB_TOKEN}` });
     }
     await octokit.repos.createOrUpdateFileContents({
       ...REPO_DETAILS,
-      content: Buffer.from(newContents).toString("base64");,
+      content: Buffer.from(newContents).toString("base64"),
       path: "README.md",
       message: `endorsements ${new Date().toISOString()}`,
       sha: readme.sha,
