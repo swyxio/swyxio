@@ -20,11 +20,11 @@ const octokit = new Octokit({ auth: `token ${process.env.ENV_GITHUB_TOKEN}` });
   try {
     const newContents = generateNewReadme(data, readme.content);
     // console.log({newContents})
-    await octokit.repos.createOrUpdateFile({
+    await octokit.repos.createOrUpdateFileContents({
       ...REPO_DETAILS,
       content: newContents,
       path: 'README.md',
-      message: `endorsementsssssss`,
+      message: `endorsements ${new Date().toISOString()}`,
       sha: readme.sha,
       branch: 'master'
     })
