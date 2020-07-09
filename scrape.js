@@ -31,10 +31,10 @@ async function getReadme (octokit) {
 //   return Buffer.from(newContent).toString('base64')
 // }
 
-console.log('ttt', process.env.GITHUB_TOKEN)
+console.log('ghtoken', process.env.GITHUB_TOKEN)
 
-const octokit = new Octokit({ auth: `token ${process.env.GITHUB_TOKEN}` })
-(async function() {
+const octokit = new Octokit({ auth: `token ${process.env.GITHUB_TOKEN}` });
+(async function potato() {
 
   const readme = await getReadme(octokit)
 })()
