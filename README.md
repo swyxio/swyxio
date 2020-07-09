@@ -28,7 +28,8 @@ I'm a [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hel
   ### Endorse me for:
   
   <ul>
-  <li><a href="https://github.com/sw-yx/sw-yx/issues/3">Self-Starter</a>: <img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4 width=20 /></li>
+  <li><a href="https://github.com/sw-yx/sw-yx/issues/4">Learning in Public</a>: <img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4 width=20 /></li>
+<li><a href="https://github.com/sw-yx/sw-yx/issues/3">Self-Starter</a>: <img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4 width=20 /></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/2">JavaScript</a>: <img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4 width=20 /></li>
   </ul>
   <!--END_SECTION:endorsements-->
