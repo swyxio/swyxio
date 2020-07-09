@@ -16,13 +16,20 @@ console.log("ghtoken", process.env.ENV_GITHUB_TOKEN);
 const octokit = new Octokit({ auth: `token ${process.env.ENV_GITHUB_TOKEN}` });
 (async function main() {
   const readme = await getReadme(octokit);
+  let oldFences = listReg.exec(readme.content)
+  oldFences = oldFences && oldFences[0] // could be null
   const data = await getReactions();
   try {
-    const newContents = generateNewReadme(data, readme.content);
-    // console.log({newContents})
+    let listWithFences = generateStuffInsideFences(data, readme.content);
+    let newContents = readme.content.replace(listReg, listWithFences);
+    // console.log({listWithFences, oldFences})
+    if (newContents === oldFences) {
+      console.log('NO CHANGE detected in the endorsements, skipping commit')
+      return 
+    }
     await octokit.repos.createOrUpdateFileContents({
       ...REPO_DETAILS,
-      content: newContents,
+      content: Buffer.from(newContents).toString("base64");,
       path: "README.md",
       message: `endorsements ${new Date().toISOString()}`,
       sha: readme.sha,
@@ -41,8 +48,7 @@ const octokit = new Octokit({ auth: `token ${process.env.ENV_GITHUB_TOKEN}` });
  *
  */
 
-// function generateNewReadme (guests: Guest[], readme: string) {
-function generateNewReadme(data, readme) {
+function generateStuffInsideFences(data) {
   const renderedList = data
     .map(
       (x) =>
@@ -61,10 +67,7 @@ function generateNewReadme(data, readme) {
   ${renderedList}
   </ul>
   ${END_COMMENT}`;
-  const newContent = readme.replace(listReg, listWithFences);
-  // .replace(jsonReg, `<!--GUESTBOOK_LIST ${JSON.stringify(guests)}-->`)
-  console.log({ newContent, listWithFences });
-  return Buffer.from(newContent).toString("base64");
+  return listWithFences
 }
 
 // async function getReadme (octokit: Octokit) {
