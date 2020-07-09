@@ -48,14 +48,14 @@ function generateNewReadme(data, readme) {
       (x) =>
         `<li><a href="${x.url}">${x.title}</a>: ${x.reactions
           .map(
-            (reaction) => `<img src=${reaction.user.avatar_url} width=100 />`
+            (reaction) => `<img src=${reaction.user.avatar_url} width=20 />`
           )
           .join("")}</li>`
     )
     .join("\n");
 
   const listWithFences = `${START_COMMENT}
-  ### Endorsements for
+  ### Endorse me for:
   
   <ul>
   ${renderedList}
@@ -90,7 +90,7 @@ async function getReactions() {
       });
       return {
         title: x.title,
-        url: x.url,
+        url: x.html_url,
         number: x.number,
         reactions: reaction.data, // an array of USER
       };
