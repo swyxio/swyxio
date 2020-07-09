@@ -23,11 +23,11 @@ const octokit = new Octokit({ auth: `token ${process.env.ENV_GITHUB_TOKEN}` });
     await octokit.repos.createOrUpdateFileContents({
       ...REPO_DETAILS,
       content: newContents,
-      path: 'README.md',
+      path: "README.md",
       message: `endorsements ${new Date().toISOString()}`,
       sha: readme.sha,
-      branch: 'master'
-    })
+      branch: "master",
+    });
   } catch (err) {
     console.error(err);
   }
@@ -43,15 +43,24 @@ const octokit = new Octokit({ auth: `token ${process.env.ENV_GITHUB_TOKEN}` });
 
 // function generateNewReadme (guests: Guest[], readme: string) {
 function generateNewReadme(data, readme) {
-  const renderedList = data.map(
-    (x) =>
-      `[${x.title}](${x.url}): ${x.reactions.map(
-        (reaction) => `<img src=${reaction.user.avatar_url} width=100 />`
-      )}`
-  );
-  // .join('\n\n---\n\n')
+  const renderedList = data
+    .map(
+      (x) =>
+        `<li><a href="${x.url}">${x.title}</a>: ${x.reactions
+          .map(
+            (reaction) => `<img src=${reaction.user.avatar_url} width=100 />`
+          )
+          .join("")}</li>`
+    )
+    .join("\n");
 
-  const listWithFences = `${START_COMMENT}\n${renderedList}\n${END_COMMENT}`;
+  const listWithFences = `${START_COMMENT}
+  ### Endorsements for
+  
+  <ul>
+  ${renderedList}
+  </ul>
+  ${END_COMMENT}`;
   const newContent = readme.replace(listReg, listWithFences);
   // .replace(jsonReg, `<!--GUESTBOOK_LIST ${JSON.stringify(guests)}-->`)
   console.log({ newContent, listWithFences });
