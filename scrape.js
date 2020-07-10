@@ -57,7 +57,7 @@ function generateStuffInsideFences(data) {
       (x) =>
         `<li><a href="${x.url}">${x.title}</a>: ${x.reactions
           .map(
-            (reaction) => `<kbd><img src=${reaction.user.avatar_url}&s=20 /></kbd>` // use github image api s=20 to size smaller
+            (reaction) => `<img src=${reaction.user.avatar_url}&s=20 />` // use github image api s=20 to size smaller
           )
           .join("")}</li>`
     )
@@ -66,7 +66,7 @@ function generateStuffInsideFences(data) {
   const listWithFences = `${START_COMMENT}
   ### Skills & Endorsements
   
-  I would like to add you to my professional network on the GITHUB. Please endorse me so that employers will know I have the Skills.
+  I would like to add you to my professional network on the GITHUB.
 
   <ul>
   ${renderedList}
