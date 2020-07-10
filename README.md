@@ -20,7 +20,7 @@ I'm a [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hel
 - 👯 I’m looking to collaborate on a potential podcast
 - 🤔 I’m looking for help with video editing/site redesign
 - 💬 Ask me about Svelte and React and AWS Amplify!
-- 📫 How to reach me: <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>
+- 📫 How to reach me: <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a> or `swyx @ hey . com`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once detained in Cuba on suspicion of being a spy
 
