@@ -30,7 +30,8 @@ I'm a [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hel
   I would like to add you to my professional network on the GITHUB. Please endorse me so that employers will know I have the Skills.
 
   <ul>
-  <li><a href="https://github.com/sw-yx/sw-yx/issues/6">Dank memes</a>: </li>
+  <li><a href="https://github.com/sw-yx/sw-yx/issues/7">Team Player</a>: <kbd><img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 /></kbd></li>
+<li><a href="https://github.com/sw-yx/sw-yx/issues/6">Dank memes</a>: <kbd><img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 /></kbd></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/5">Having awesome ideas</a>: <kbd><img src=https://avatars1.githubusercontent.com/u/10660468?u=b2a4cb6919cf2a48d3a57d88597ae60dbaf81e1a&v=4&s=20 /></kbd><kbd><img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 /></kbd></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/4">Learning in Public</a>: <kbd><img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 /></kbd><kbd><img src=https://avatars1.githubusercontent.com/u/10660468?u=b2a4cb6919cf2a48d3a57d88597ae60dbaf81e1a&v=4&s=20 /></kbd><kbd><img src=https://avatars0.githubusercontent.com/u/6540763?u=b6700c6b857dc4feb5b469439b1f0b12c95d82ec&v=4&s=20 /></kbd></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/3">Self-Starter</a>: <kbd><img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 /></kbd><kbd><img src=https://avatars0.githubusercontent.com/u/1016190?u=d88c979c3dad16b9b0f604b0da60169b12cf7c34&v=4&s=20 /></kbd></li>
