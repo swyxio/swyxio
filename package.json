@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/sw-yx/sw-yx#readme",
   "dependencies": {
-    "@octokit/rest": "^18.0.0"
+    "@octokit/rest": "^18.0.0",
+    "readme-box": "^0.1.2"
   },
   "devDependencies": {
     "ts-node": "^8.10.2",

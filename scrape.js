@@ -1,6 +1,10 @@
+// from https://github.com/JasonEtco/readme-guestbook/blob/master/api/submit-form.ts
 const { Octokit } = require("@octokit/rest");
 
-// from https://github.com/JasonEtco/readme-guestbook/blob/master/api/submit-form.ts
+// todo: use readme-box instead if it no-ops nicely
+// const { ReadmeBox } = require('readme-box')
+
+
 const REPO_DETAILS = {
   owner: process.env.GITHUB_REPOSITORY_OWNER,
   repo: process.env.GITHUB_REPOSITORY_OWNER,
@@ -10,8 +14,8 @@ const START_COMMENT = "<!--START_SECTION:endorsements-->";
 const END_COMMENT = "<!--END_SECTION:endorsements-->";
 const listReg = new RegExp(`${START_COMMENT}[\\s\\S]+${END_COMMENT}`);
 
-console.log({ REPO_DETAILS });
-console.log("ghtoken", process.env.ENV_GITHUB_TOKEN);
+// console.log({ REPO_DETAILS });
+// console.log("ghtoken", process.env.ENV_GITHUB_TOKEN);
 
 const octokit = new Octokit({ auth: `token ${process.env.ENV_GITHUB_TOKEN}` });
 (async function main() {
@@ -21,12 +25,11 @@ const octokit = new Octokit({ auth: `token ${process.env.ENV_GITHUB_TOKEN}` });
   const data = await getReactions();
   try {
     let listWithFences = generateStuffInsideFences(data, readme.content);
-    let newContents = readme.content.replace(listReg, listWithFences);
-    // console.log({listWithFences, oldFences})
-    if (newContents === oldFences) {
+    if (listWithFences === oldFences) {
       console.log('NO CHANGE detected in the endorsements, skipping commit')
       return 
     }
+    let newContents = readme.content.replace(listReg, listWithFences);
     await octokit.repos.createOrUpdateFileContents({
       ...REPO_DETAILS,
       content: Buffer.from(newContents).toString("base64"),
@@ -54,15 +57,17 @@ function generateStuffInsideFences(data) {
       (x) =>
         `<li><a href="${x.url}">${x.title}</a>: ${x.reactions
           .map(
-            (reaction) => `<img src=${reaction.user.avatar_url} width=20 />`
+            (reaction) => `<kbd><img src=${reaction.user.avatar_url}&s=20 /></kbd>` // use github image api s=20 to size smaller
           )
           .join("")}</li>`
     )
     .join("\n");
 
   const listWithFences = `${START_COMMENT}
-  ### Endorse me for:
+  ### Skills & Endorsements
   
+  I would like to add you to my professional network on the GITHUB. Please endorse me so that employers will know I have the Skills.
+
   <ul>
   ${renderedList}
   </ul>
