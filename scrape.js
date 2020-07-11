@@ -57,7 +57,7 @@ function generateStuffInsideFences(data) {
       (x) =>
         `<li><a href="${x.url}">${x.title}</a>: ${x.reactions
           .map(
-            (reaction) => `<img src=${reaction.user.avatar_url}&s=20 />` // use github image api s=20 to size smaller
+            (reaction) => `<img src=${reaction.user.avatar_url}&s=20 height=20 />` // use github image api s=20 to size smaller
           )
           .join("")}</li>`
     )
