@@ -24,6 +24,9 @@ I'm a [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hel
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once detained in Cuba on suspicion of being a spy
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=sw-yx&show_icons=true)![Profile views](https://gpvc.arturio.dev/sw-yx)  
+
 <!--START_SECTION:endorsements-->
   ### Skills & Endorsements
   
