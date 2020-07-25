@@ -29,7 +29,7 @@ I'm a [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hel
 <!--START_SECTION:endorsements-->
   ### Skills & Endorsements
   
-  I would like to add you to my professional network on the GITHUB.
+  I would like to add you to my professional network on the GITHUB. <small>(<a href="https://twitter.com/swyx/status/1281752510458286080?s=20">wtf is this?</a>)</small>
 
   <ul>
   <li><a href="https://github.com/sw-yx/sw-yx/issues/14">TypeScript</a>: <img src=https://avatars2.githubusercontent.com/u/2502947?u=eb345767686e9b8692c6d76955650a41e6e80cf3&v=4&s=20 height=20 /><img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /><img src=https://avatars0.githubusercontent.com/u/12146882?u=28818ffc2ade7247804d77c5b9e0ec5065cded92&v=4&s=20 height=20 /></li>
