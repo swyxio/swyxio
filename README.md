@@ -5,6 +5,8 @@
 ![image](https://user-images.githubusercontent.com/6764957/87083194-cec5b800-c25e-11ea-85b4-0bebc4374e07.png)
 
 <p align="center">
+  ![Profile views](https://gpvc.arturio.dev/sw-yx) •  
+  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
   <a href="https://swyx.io">Blog</a> •
   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton">Twitter</a> •
   <a href="https://github.com/sw-yx/README">Work README</a> •
@@ -23,8 +25,6 @@ I'm a [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hel
 - 📫 How to reach me: `swyx at hey dot com`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once detained in Cuba on suspicion of being a spy
-
-![Profile views](https://gpvc.arturio.dev/sw-yx)   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a> 
 
 <!--START_SECTION:endorsements-->
   ### Skills & Endorsements
