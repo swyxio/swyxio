@@ -24,7 +24,7 @@ I'm a [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hel
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once detained in Cuba on suspicion of being a spy
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sw-yx&show_icons=true) ![Profile views](https://gpvc.arturio.dev/sw-yx)   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a> 
+![Profile views](https://gpvc.arturio.dev/sw-yx)   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a> 
 
 <!--START_SECTION:endorsements-->
   ### Skills & Endorsements
@@ -43,3 +43,6 @@ I'm a [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hel
   <li><a href="https://github.com/sw-yx/sw-yx/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
   </ul>
   <!--END_SECTION:endorsements-->
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=sw-yx&show_icons=true) 
