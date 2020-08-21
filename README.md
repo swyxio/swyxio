@@ -44,5 +44,3 @@ I'm a [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hel
   </ul>
   <!--END_SECTION:endorsements-->
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=sw-yx&show_icons=true&cache_seconds=86400) 
