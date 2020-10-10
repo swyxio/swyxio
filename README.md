@@ -32,7 +32,7 @@ I'm a [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hel
   I would like to add you to my professional network on the GITHUB.
 
   <ul>
-  <li><a href="https://github.com/sw-yx/sw-yx/issues/29">Deep Learning</a>: <img src=https://avatars2.githubusercontent.com/u/22770735?u=76b2b34af579c5714b3b3e26b6c60bfc1f5070aa&v=4&s=20 height=20 /></li>
+  <li><a href="https://github.com/sw-yx/sw-yx/issues/29">Deep Learning</a>: <img src=https://avatars2.githubusercontent.com/u/22770735?u=76b2b34af579c5714b3b3e26b6c60bfc1f5070aa&v=4&s=20 height=20 /><img src=https://avatars3.githubusercontent.com/u/8433587?u=4143853cdd52d732534e82e9232cfda0591b9876&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/28">Machine learning</a>: <img src=https://avatars2.githubusercontent.com/u/22770735?u=76b2b34af579c5714b3b3e26b6c60bfc1f5070aa&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/27">Artificial intelligence</a>: <img src=https://avatars2.githubusercontent.com/u/22770735?u=76b2b34af579c5714b3b3e26b6c60bfc1f5070aa&v=4&s=20 height=20 /><img src=https://avatars2.githubusercontent.com/u/22770735?u=76b2b34af579c5714b3b3e26b6c60bfc1f5070aa&v=4&s=20 height=20 /><img src=https://avatars2.githubusercontent.com/u/22770735?u=76b2b34af579c5714b3b3e26b6c60bfc1f5070aa&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/26">Black Magic</a>: <img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /><img src=https://avatars2.githubusercontent.com/u/22770735?u=76b2b34af579c5714b3b3e26b6c60bfc1f5070aa&v=4&s=20 height=20 /></li>
