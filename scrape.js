@@ -6,8 +6,8 @@ const { Octokit } = require("@octokit/rest");
 
 
 const REPO_DETAILS = {
-  owner: process.env.GITHUB_REPOSITORY_OWNER,
-  repo: process.env.GITHUB_REPOSITORY_OWNER,
+  owner: process.env.CI_REPOSITORY_OWNER,
+  repo: process.env.CI_REPOSITORY_OWNER,
 };
 
 const START_COMMENT = "<!--START_SECTION:endorsements-->";
