@@ -17,6 +17,10 @@
 
 I'm a [GitHub Star ⭐](https://stars.github.com/) and [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hello-aws/) focusing on fullstack serverless web applications. I do a lot of [speaking on React and Svelte](https://www.swyx.io/speaking/), teach [React and TypeScript at Egghead.io](https://egghead.io/instructors/shawn-wang?af=95qfq1) and write a [biweekly-ish newsletter](https://tinyletter.com/swyx). I recently self-published <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a> to write down all the tacit knowledge that helps people succeed in our industry.
 
+<a href="https://myoctocat.dev/@sw-yx/octocat">
+  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
+</a>
+
 - 🔭 I’m currently working on my health and making customers happy
 - 🌱 I’m currently [learning AWS](https://www.swyx.io/writing/hello-aws/)
 - 👯 I’m looking to collaborate on a potential podcast
