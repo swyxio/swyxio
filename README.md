@@ -28,7 +28,7 @@ I'm a [GitHub Star ⭐](https://stars.github.com/) and [Senior Developer Advocat
 - 💬 Ask me about [Svelte](https://www.swyx.io/writing/svelte-why/) and [React](https://www.swyx.io/speaking/react-hooks/) and [AWS Amplify](https://www.swyx.io/writing/hello-aws)!
 - 📫 How to reach me: `swyx at hey dot com`
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was once detained in Cuba on suspicion of being a spy
+- ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf) on suspicion of being a spy
 
 <!--START_SECTION:endorsements-->
   ### Skills & Endorsements
