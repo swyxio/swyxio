@@ -15,7 +15,7 @@
 
 ---
 
-I'm a [GitHub Star ⭐](https://stars.github.com/) and [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hello-aws/) focusing on fullstack serverless web applications. I do a lot of [speaking on React and Svelte](https://www.swyx.io/speaking/), teach [React and TypeScript at Egghead.io](https://egghead.io/instructors/shawn-wang?af=95qfq1) and write a [biweekly-ish newsletter](https://tinyletter.com/swyx). I recently self-published <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a> to write down all the tacit knowledge that helps people succeed in our industry.
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a [GitHub Star ⭐](https://stars.github.com/) and [Senior Developer Advocate at AWS Amplify](https://www.swyx.io/writing/hello-aws/) focusing on fullstack serverless web applications. I do a lot of [speaking on React and Svelte](https://www.swyx.io/speaking/), teach [React and TypeScript at Egghead.io](https://egghead.io/instructors/shawn-wang?af=95qfq1) and write a [biweekly-ish newsletter](https://tinyletter.com/swyx). I recently self-published <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a> to write down all the tacit knowledge that helps people succeed in our industry.
 
 <a href="https://myoctocat.dev/@sw-yx/octocat">
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
@@ -33,7 +33,7 @@ I'm a [GitHub Star ⭐](https://stars.github.com/) and [Senior Developer Advocat
 <!--START_SECTION:endorsements-->
   ### Skills & Endorsements
   
-  I would like to add you to my professional network on the GITHUB.
+  I would like to add you to my professional network on the GITHUB. ([What is this?](https://github.com/sw-yx/sw-yx/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc))
 
   <ul>
   <li><a href="https://github.com/sw-yx/sw-yx/issues/31">UAV's & Drones</a>: <img src=https://avatars1.githubusercontent.com/u/22770735?u=c7c8d8e372a0633ff094874c59beb2f98813624f&v=4&s=20 height=20 /><img src=https://avatars1.githubusercontent.com/u/22770735?u=c7c8d8e372a0633ff094874c59beb2f98813624f&v=4&s=20 height=20 /><img src=https://avatars1.githubusercontent.com/u/22770735?u=c7c8d8e372a0633ff094874c59beb2f98813624f&v=4&s=20 height=20 /><img src=https://avatars1.githubusercontent.com/u/22770735?u=c7c8d8e372a0633ff094874c59beb2f98813624f&v=4&s=20 height=20 /><img src=https://avatars1.githubusercontent.com/u/22770735?u=c7c8d8e372a0633ff094874c59beb2f98813624f&v=4&s=20 height=20 /><img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /><img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /><img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /><img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /><img src=https://avatars1.githubusercontent.com/u/45873074?u=c3ec9fa6c9669635d4bf31067d9eac86d351eb3a&v=4&s=20 height=20 /><img src=https://avatars3.githubusercontent.com/u/1821843?u=57459e71d75b3969c73411ae7ec0f4735d39be39&v=4&s=20 height=20 /></li>
