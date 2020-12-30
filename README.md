@@ -33,7 +33,7 @@
 <!--START_SECTION:endorsements-->
   ### Skills & Endorsements
   
-  I would like to add you to my professional network on the GITHUB. ([What is this?](https://github.com/sw-yx/sw-yx/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc))
+  I would like to add you to my professional network on the GITHUB.
 
   <ul>
   <li><a href="https://github.com/sw-yx/sw-yx/issues/31">UAV's & Drones</a>: <img src=https://avatars1.githubusercontent.com/u/22770735?u=c7c8d8e372a0633ff094874c59beb2f98813624f&v=4&s=20 height=20 /><img src=https://avatars1.githubusercontent.com/u/22770735?u=c7c8d8e372a0633ff094874c59beb2f98813624f&v=4&s=20 height=20 /><img src=https://avatars1.githubusercontent.com/u/22770735?u=c7c8d8e372a0633ff094874c59beb2f98813624f&v=4&s=20 height=20 /><img src=https://avatars1.githubusercontent.com/u/22770735?u=c7c8d8e372a0633ff094874c59beb2f98813624f&v=4&s=20 height=20 /><img src=https://avatars1.githubusercontent.com/u/22770735?u=c7c8d8e372a0633ff094874c59beb2f98813624f&v=4&s=20 height=20 /><img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /><img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /><img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /><img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /><img src=https://avatars1.githubusercontent.com/u/45873074?u=c3ec9fa6c9669635d4bf31067d9eac86d351eb3a&v=4&s=20 height=20 /><img src=https://avatars3.githubusercontent.com/u/1821843?u=57459e71d75b3969c73411ae7ec0f4735d39be39&v=4&s=20 height=20 /></li>
