@@ -30,6 +30,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf) on suspicion of being a spy
 
+
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+
+
 <!--START_SECTION:endorsements-->
   ### Skills & Endorsements
   
