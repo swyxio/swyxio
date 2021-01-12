@@ -31,8 +31,10 @@
 - ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf) on suspicion of being a spy
 
 
+<!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on 
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+-->
 
 
 <!--START_SECTION:endorsements-->
