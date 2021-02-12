@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on my health and making customers happy
 - 🌱 I’m currently [learning AWS](https://www.swyx.io/writing/hello-aws/)
-- 👯 I’m looking to collaborate on a potential podcast
+- 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
 - 🤔 I’m looking for help with youtube/site redesign
 - 💬 Ask me about [Svelte](https://www.swyx.io/writing/svelte-why/) and [React](https://www.swyx.io/speaking/react-hooks/) and [AWS Amplify](https://www.swyx.io/writing/hello-aws)!
 - 📫 How to reach me: `swyx at hey dot com`
