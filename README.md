@@ -15,7 +15,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a [GitHub Star ⭐](https://stars.github.com/) and Head of Developer Experience at [Temporal.io](https://temporal.io/). Most recently I was a Senior DX Engineer at [AWS](https://www.swyx.io/writing/hello-aws/) [Netlify](https://www.swyx.io/farewell-netlify/), and Two Sigma. I do a lot of [speaking on React and Svelte](https://www.swyx.io/speaking/), teach [React and TypeScript at Egghead.io](https://egghead.io/instructors/shawn-wang?af=95qfq1) and publish a [daily podcast](http://swyx.transistor.fm/) and [weekly newsletter](https://tinyletter.com/swyx) curating the best of everything I consume. 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a [GitHub Star ⭐](https://stars.github.com/) and Head of Developer Experience at [Temporal.io](https://temporal.io/). I do a lot of [speaking on React and Svelte](https://www.swyx.io/speaking/), teach [React and TypeScript at Egghead.io](https://egghead.io/instructors/shawn-wang?af=95qfq1) and publish a [daily podcast](http://swyx.transistor.fm/) and [weekly newsletter](https://www.swyx.io/subscribe/) (subscribe!) curating the best of what I read and listen to. 
 
 I recently self-published <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a> to condense all the tacit knowledge developers need to succeed in our industry. <a href="https://codingcareer.circle.so/">Join our community</a>!
 
@@ -23,7 +23,7 @@ I recently self-published <a href="https://learninpublic.org/?from=GH%20README">
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
 </a>
 
-- See my [full about page here](http://swyx.io/about) as well as [my featured writing](https://www.swyx.io/#featured-writing).
+- See my [full about page here](http://swyx.io/about) as well as [featured writing](https://www.swyx.io/#featured-writing).
 - 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
 - 💬 Ask me about [Svelte](https://www.swyx.io/svelte-why/) and [React](https://www.youtube.com/watch?v=KJP1E-Y-xyo) and [Temporal](https://temporal.io)!
 - 📫 How to reach me: `swyx at hey dot com`
