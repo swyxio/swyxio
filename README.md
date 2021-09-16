@@ -28,7 +28,7 @@ I recently self-published <a href="https://learninpublic.org/?from=GH%20README">
 - 💬 Ask me about [Svelte](https://www.swyx.io/svelte-why/) and [React](https://www.youtube.com/watch?v=KJP1E-Y-xyo) and [Temporal](https://temporal.io)!
 - 📫 How to reach me: `swyx at hey dot com`
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf) on suspicion of being a spy
+- ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf#aside-my-time-as-a-cuban-detainee) on suspicion of being a spy
 
 
 <!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on 
