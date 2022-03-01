@@ -43,7 +43,7 @@ I recently self-published <a href="https://learninpublic.org/?from=GH%20README">
   I would like to add you to my professional network on the GITHUB.
 
   <ul>
-  <li><a href="https://github.com/sw-yx/sw-yx/issues/40">Creativity</a>: </li>
+  <li><a href="https://github.com/sw-yx/sw-yx/issues/40">Creativity</a>: <img src=https://avatars.githubusercontent.com/u/5083214?v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/39">TypeScript</a>: <img src=https://avatars.githubusercontent.com/u/1310895?u=a4ec3396bc962d4ab33be1f250852bce251021bb&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/38">JavaScript</a>: <img src=https://avatars.githubusercontent.com/u/91498093?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/23583726?u=d9aa829afdaf165d3b94a1c0151c3421d4eb2dc2&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/1310895?u=a4ec3396bc962d4ab33be1f250852bce251021bb&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/5083214?v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/37">Self-Start</a>: </li>
