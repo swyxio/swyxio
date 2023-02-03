@@ -45,7 +45,7 @@ I also self-published <a href="https://learninpublic.org/?from=GH%20README">The 
   I would like to add you to my professional network on the GITHUB.
 
   <ul>
-  <li><a href="https://github.com/sw-yx/sw-yx/issues/48">Flutter</a>: <img src=https://avatars.githubusercontent.com/u/15138747?u=e5e3698865cae7a60cf2d94a6474c00fae915604&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/3353385?u=2ae27e396879f4b43730416370997ad7208c9745&v=4&s=20 height=20 /></li>
+  <li><a href="https://github.com/sw-yx/sw-yx/issues/48">Flutter</a>: <img src=https://avatars.githubusercontent.com/u/15138747?u=f44a41a0f7c24e9469c0a51bf400f60dffc2a0d8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/3353385?u=2ae27e396879f4b43730416370997ad7208c9745&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/46">React</a>: <img src=https://avatars.githubusercontent.com/u/56319778?u=3e6f5020d2f3abfc2f4d665a3be4e87eb8eef95e&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/45">SKILL_HERE</a>: <img src=https://avatars.githubusercontent.com/u/56319778?u=3e6f5020d2f3abfc2f4d665a3be4e87eb8eef95e&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/sw-yx/sw-yx/issues/44">Machine Learning</a>: <img src=https://avatars.githubusercontent.com/u/56319778?u=3e6f5020d2f3abfc2f4d665a3be4e87eb8eef95e&v=4&s=20 height=20 /></li>
