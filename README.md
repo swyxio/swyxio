@@ -15,6 +15,11 @@
 
 ---
 
+Whats up hacker news, i dont give a shit about being a github influencer lmao stop judging me based on literally a bio i typed up in 3 minutes
+
+
+<!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on 
+
 I'm a [GitHub Star ⭐](https://stars.github.com/) and Head of Developer Experience at [Airbyte](https://airbyte.com/). I previously worked in DevRel/DX at Netlify, AWS, and Temporal.io.
 
 In my personal capacity, do a lot of [writing and speaking](https://www.swyx.io/ideas/), teach [React and TypeScript at Egghead.io](https://egghead.io/instructors/shawn-wang?af=95qfq1) and publish a [daily podcast](http://swyx.transistor.fm/) and [weekly newsletter](https://www.swyx.io/subscribe/) (subscribe!) curating the best of what I read and listen to. 
@@ -32,8 +37,6 @@ I also self-published <a href="https://learninpublic.org/?from=GH%20README">The 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf#aside-my-time-as-a-cuban-detainee) on suspicion of being a spy
 
-
-<!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on 
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
 -->
