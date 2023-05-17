@@ -14,6 +14,7 @@
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
   <a href="https://swyx.io">Blog</a> •
+  <a href="https://latent.space">AI Podcast</a> •
   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton">Twitter</a> •
   <a href="https://github.com/sw-yx/README">Work README</a> •
   <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a>
@@ -22,7 +23,7 @@
 ---
 
 
-I'm currently Writer and Cohost of the [Latent Space](https://latent.space/) AI newsletter/podcast and working on something smol. I previously helped lead or build DevRel/DX at AWS and 3 devtools unicorns (Netlify, Temporal, Airbyte). Because I love GitHub and this is my GH Readme, I guess I should also say that I'm honored to be a [GitHub Star ⭐](https://stars.github.com/) as it has changed my life and I often share freely about how [I use GitHub for all sorts of unusual things](https://www.google.com/search?q=swyx+how+i+use+github).
+I'm currently Writer and Cohost of the [Latent Space](https://latent.space/) AI newsletter/podcast and [working on something smol](https://smol.ai/). I previously helped lead or build DevRel/DX at AWS and 3 devtools unicorns (Netlify, Temporal, Airbyte). Because I love GitHub and this is my GH Readme, I guess I should also say that I'm honored to be a [GitHub Star ⭐](https://stars.github.com/) as it has changed my life and I often share freely about how [I use GitHub for all sorts of unusual things](https://www.google.com/search?q=swyx+how+i+use+github).
 
 I previously did a lot of community work for the React, Svelte, DevTools Angel Investing, and general JavaScript community, but now those have become less of a focus as my new founder duties ramped up.
 
