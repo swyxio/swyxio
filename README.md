@@ -22,15 +22,17 @@
 ---
 
 
-I'm a [GitHub Star ⭐](https://stars.github.com/) and Head of Developer Experience at [Airbyte](https://airbyte.com/). I previously worked in DevRel/DX at Netlify, AWS, and Temporal.io.
+I'm currently Writer and Cohost of the [Latent Space](https://latent.space/) AI newsletter/podcast and working on something smol. I previously helped lead or build DevRel/DX at AWS and 3 devtools unicorns (Netlify, Temporal, Airbyte). Because I love GitHub and this is my GH Readme, I guess I should also say that I'm honored to be a [GitHub Star ⭐](https://stars.github.com/) as it has changed my life and I often share freely about how [I use GitHub for all sorts of unusual things](https://www.google.com/search?q=swyx+how+i+use+github).
 
-In my personal capacity, do a lot of [writing and speaking](https://www.swyx.io/ideas/), teach [React and TypeScript at Egghead.io](https://egghead.io/instructors/shawn-wang?af=95qfq1) and publish a [daily podcast](http://swyx.transistor.fm/) and [weekly newsletter](https://www.swyx.io/subscribe/) (subscribe!) curating the best of what I read and listen to. 
+I previously did a lot of community work for the React, Svelte, DevTools Angel Investing, and general JavaScript community, but now those have become less of a focus as my new founder duties ramped up.
 
-I also self-published <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a> to condense all the tacit knowledge developers need to succeed in our industry. <a href="https://codingcareer.circle.so/">Join our community</a>!
+If you are a junior developer looking to level up to senior, I <a href="https://learninpublic.org/?from=GH%20README">wrote my book for you</a>.
 
 <a href="https://myoctocat.dev/@sw-yx/octocat">
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
 </a>
+
+<!-- 
 
 - See my [full about page here](http://swyx.io/about) as well as [featured writing](https://www.swyx.io/#featured-writing).
 - 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
@@ -38,6 +40,8 @@ I also self-published <a href="https://learninpublic.org/?from=GH%20README">The 
 - 📫 How to reach me: `swyx at hey dot com`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf#aside-my-time-as-a-cuban-detainee) on suspicion of being a spy
+
+-->
 
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
