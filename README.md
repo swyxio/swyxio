@@ -54,7 +54,7 @@ If you are a junior developer looking to level up to senior, I <a href="https://
   I would like to add you to my professional network on the GITHUB.
 
   <ul>
-  <li><a href="https://github.com/swyxio/swyxio/issues/54">cockery</a>: </li>
+  <li><a href="https://github.com/swyxio/swyxio/issues/54">cockery</a>: <img src=https://avatars.githubusercontent.com/u/28301369?u=1a2fb6e1db1ded905a4c38f5643943c1e6c9f64e&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/swyxio/swyxio/issues/52">Dawg in him</a>: <img src=https://avatars.githubusercontent.com/u/8742021?u=389d403ecf207e93e39af9c8b43828854655f1a7&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/swyxio/swyxio/issues/51">AI Project Delivery</a>: </li>
 <li><a href="https://github.com/swyxio/swyxio/issues/50">SKILL_HERE</a>: </li>
