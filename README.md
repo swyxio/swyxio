@@ -56,7 +56,7 @@ If you are a junior developer looking to level up to senior, I <a href="https://
   <ul>
   <li><a href="https://github.com/swyxio/swyxio/issues/55">Roblox Studio</a>: </li>
 <li><a href="https://github.com/swyxio/swyxio/issues/54">cockery</a>: <img src=https://avatars.githubusercontent.com/u/28301369?u=1a2fb6e1db1ded905a4c38f5643943c1e6c9f64e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/15427049?u=e66d7521bc1ac0de424d9da9ae315fe24afaee92&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/52">Dawg in him</a>: <img src=https://avatars.githubusercontent.com/u/8742021?u=389d403ecf207e93e39af9c8b43828854655f1a7&v=4&s=20 height=20 /></li>
+<li><a href="https://github.com/swyxio/swyxio/issues/52">Dawg in him</a>: <img src=https://avatars.githubusercontent.com/u/8742021?u=389d403ecf207e93e39af9c8b43828854655f1a7&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/44032235?u=cdab74ccd0fe95efbe9c5620328198bb524305db&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/swyxio/swyxio/issues/51">AI Project Delivery</a>: </li>
 <li><a href="https://github.com/swyxio/swyxio/issues/50">SKILL_HERE</a>: </li>
 <li><a href="https://github.com/swyxio/swyxio/issues/49">React</a>: <img src=https://avatars.githubusercontent.com/u/46057471?u=4d1bf69d7c338cd909764162dc3354c354f91bed&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/2555503?u=d8b410189cf5cb0698858ef6d64bbdd03f0473ef&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46792207?u=3a6ff7bb5471781d3081218ff6ffcef48d2ef955&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/6303786?u=daafe664c0f2af5b6ea6bfa72271d0e351c97b2f&v=4&s=20 height=20 /></li>
