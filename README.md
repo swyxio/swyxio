@@ -54,7 +54,8 @@ If you are a junior developer looking to level up to senior, I <a href="https://
   I would like to add you to my professional network on the GITHUB.
 
   <ul>
-  <li><a href="https://github.com/swyxio/swyxio/issues/55">Roblox Studio</a>: </li>
+  <li><a href="https://github.com/swyxio/swyxio/issues/56">Software Engineering</a>: </li>
+<li><a href="https://github.com/swyxio/swyxio/issues/55">Roblox Studio</a>: </li>
 <li><a href="https://github.com/swyxio/swyxio/issues/54">cockery</a>: <img src=https://avatars.githubusercontent.com/u/28301369?u=1a2fb6e1db1ded905a4c38f5643943c1e6c9f64e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/15427049?u=e66d7521bc1ac0de424d9da9ae315fe24afaee92&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/swyxio/swyxio/issues/52">Dawg in him</a>: <img src=https://avatars.githubusercontent.com/u/8742021?u=389d403ecf207e93e39af9c8b43828854655f1a7&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/44032235?u=cdab74ccd0fe95efbe9c5620328198bb524305db&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/swyxio/swyxio/issues/51">AI Project Delivery</a>: </li>
