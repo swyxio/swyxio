@@ -56,7 +56,7 @@ If you are a junior developer looking to level up to senior, I <a href="https://
   <ul>
   <li><a href="https://github.com/swyxio/swyxio/issues/64">DevOps</a>: </li>
 <li><a href="https://github.com/swyxio/swyxio/issues/63">Java</a>: <img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/62">Python</a>: <img src=https://avatars.githubusercontent.com/u/82009045?u=797f67f8fcd61097412694a5c98aa4ba9f388649&v=4&s=20 height=20 /></li>
+<li><a href="https://github.com/swyxio/swyxio/issues/62">Python</a>: <img src=https://avatars.githubusercontent.com/u/82009045?u=7bd1ebd6e0067e2c1158e6b5cee5dbc1cdb6ca1c&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/swyxio/swyxio/issues/61">Java</a>: </li>
 <li><a href="https://github.com/swyxio/swyxio/issues/60">GitHub Readme AWESOMENESS</a>: <img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/swyxio/swyxio/issues/59">DevOps</a>: </li>
