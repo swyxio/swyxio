@@ -55,10 +55,10 @@ If you are a junior developer looking to level up to senior, I <a href="https://
 
   <ul>
   <li><a href="https://github.com/swyxio/swyxio/issues/64">DevOps</a>: </li>
-<li><a href="https://github.com/swyxio/swyxio/issues/63">Java</a>: <img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /></li>
+<li><a href="https://github.com/swyxio/swyxio/issues/63">Java</a>: <img src=https://avatars.githubusercontent.com/u/66071876?u=8bf4b1aea9ad744a834adfbcbc62cb134f9e4dfa&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/66071876?u=8bf4b1aea9ad744a834adfbcbc62cb134f9e4dfa&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/swyxio/swyxio/issues/62">Python</a>: <img src=https://avatars.githubusercontent.com/u/82009045?u=538869316e0f135b688f83f02d746feb33691127&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/swyxio/swyxio/issues/61">Java</a>: </li>
-<li><a href="https://github.com/swyxio/swyxio/issues/60">GitHub Readme AWESOMENESS</a>: <img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /></li>
+<li><a href="https://github.com/swyxio/swyxio/issues/60">GitHub Readme AWESOMENESS</a>: <img src=https://avatars.githubusercontent.com/u/66071876?u=8bf4b1aea9ad744a834adfbcbc62cb134f9e4dfa&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/66071876?u=8bf4b1aea9ad744a834adfbcbc62cb134f9e4dfa&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/swyxio/swyxio/issues/59">DevOps</a>: </li>
 <li><a href="https://github.com/swyxio/swyxio/issues/56">Software Engineering</a>: <img src=https://avatars.githubusercontent.com/u/158775116?u=8d94de006df7eb4d707cc8cd8ba269eda7dc2513&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/15820796?u=0301df6885dae6682ca95457af53854ef94f071c&v=4&s=20 height=20 /></li>
 <li><a href="https://github.com/swyxio/swyxio/issues/55">Roblox Studio</a>: </li>
